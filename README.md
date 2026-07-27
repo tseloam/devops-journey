@@ -10,7 +10,7 @@ GPU-стек, inference-серверы (vLLM), Kubernetes для ML-нагруз
 ## 🗺 Дорожная карта · 26 недель
 
 - [ ] **Этап 1 · Фундамент** (нед. 1–4) — Git, Bash, Python
-  - [x] Неделя 1 — Git и GitHub
+  - [x] Неделя 1 — Git и GitHub (завершено 28.07.2026)
 - [ ] **Этап 2 · Docker + CI/CD** (нед. 5–9) — контейнеры, GitHub Actions, GitLab CI
 - [ ] **Этап 3 · IaC** (нед. 10–13) — Ansible, Terraform
 - [ ] **Этап 4 · Kubernetes + наблюдаемость** (нед. 14–18) — Helm, Prometheus, Grafana, Loki
